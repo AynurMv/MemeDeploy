@@ -1,2 +1,0 @@
-# MemeDeploy
-MemeDeploy
